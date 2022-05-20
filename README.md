@@ -10,10 +10,11 @@ Under each folder, there will be more folders with the name of each game (except
 
 ### What does each Era mean?
 If you are having trouble with finding the game for which you want to download the MIDI, here is a quick guide that will tell what each era means:
-  1. Retro Era - from touhou 1 to touhou 5
-  2. Classic Era - from touhou 6 to touhou 9 (2002 - 2005)
-  3. Modern Era 1 - from touhou 10 to touhou 12 (2007 - 2010)
-  4. Modern Era 2 - from touhou 13 onwards (2010 - Present)
+  1. **Retro Era** - from TouHou 1 to TouHou 5
+  2. **Classic Era** - from TouHou 6 to TouHou 9 (2002 - 2005)
+  3. **Modern Era 1** - from TouHou 10 to TouHou 12 (2007 - 2010)
+  4. **Modern Era 2** - from TouHou 13 onwards (2010 - Present)
+  5. **Spin-Offs** - Minor releases/Spin-Offs of TouHou games
 
 ## How to download?
 If you want to download your desired MIDI file,
