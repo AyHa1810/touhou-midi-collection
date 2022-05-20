@@ -6,7 +6,7 @@ Originally was hosted on [Gamebanana](https://gamebanana.com/projects/35179), bu
 ## Repo Contents
 In the root directory, every MIDI files are separated into "TouHou Eras" to make it easier for a song to search.
 
-Under each folder, there will be more folders with the name of each game (except its a non-OST track). Each of them contains the MIDI files of the game. There will be multiple MIDIs for the same track. It may vary in the sounds used or notations.
+Under each folder, there will be more folders with the name of each game (except if its a non-OST track). Each of them contains the MIDI files of the game. There will be multiple MIDIs for the same track. It may vary in the sounds used or notations.
 
 ### What does each Era mean?
 If you are having trouble with finding the game for which you want to download the MIDI, here is a quick guide that will tell what each era means:
