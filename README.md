@@ -15,6 +15,7 @@ If you are having trouble with finding the game for which you want to download t
   3. **Modern Era 1** - from TouHou 10 to TouHou 12 (2007 - 2010)
   4. **Modern Era 2** - from TouHou 13 onwards (2010 - Present)
   5. **Spin-Offs** - Minor releases/Spin-Offs of TouHou games
+  6.  **Fighting Games** - fighting games of TouHou
 
 ## How to download?
 If you want to download your desired MIDI file,
@@ -58,3 +59,5 @@ If you have any issues or questions related to this repo, you simply can oen a n
 
 ## Acknowledgement 
 Thanks to the admin of the [Gamebana](https://gamebanana.com/projects/35179) for maintaining the project, and all the contributors for contributing to the project.
+
+If you want to know more about TouHou, you can visit the official [TouHou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) maintained by TouHou community.
