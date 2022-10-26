@@ -1,3 +1,0 @@
-## Missing MIDI(s)
-17. Mound of Shigan
-19. Flower of Soul ~ Another Dream...
