@@ -1,0 +1,3 @@
+Original filenames for the ZUN MIDIs are as follows:
+XX - ** (ZUN).mid   -->  XX - **.mid
+XX - ** (ZUN) (SC-88 Pro).mid  -->  Seihou 1 - **.mid
