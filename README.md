@@ -56,6 +56,35 @@ If you want to go deeper into stuff like this and want the MIDIs to sound clost 
   - For MIDIs in TouHou 6 till latest ones, ZUN used [Ronald Edirol SD-90](https://www.roland.com/global/products/sd-90/) (2001) among with several VSTs. SD-90 also have been discontinued since then. There is no VST for it, so you may need to rely on alternatives like THfont (this one is not generally recommended). If available, you can buy this one second-handed too. \
   Though you may find similar sounds from it in other SoundCanvas VSTs, for example, the Romantic TP preset from SD-90 (also popularly known as ZUNpet) is available on Roland SRX World VST as GypsyTrumpet in bank PR-A.
 
+## Resources
+Here's some of my personal pickups you can play, make or edit MIDIs with (but not limited to):
+
+- DAWs (Digital Audio Workstation):
+  - [FL Studio](https://www.image-line.com/) (Win, Mac)
+  - [Reaper](https://www.reaper.fm/) (Win, Mac, Linux)
+  - [Cubase](https://www.steinberg.net/cubase/) (Win, Mac)
+  - [Ardour](https://ardour.org/) (Win, Mac, Linux) (Open Source)
+  - [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile/) (Android, iOS, Win UWP)
+
+- Sequencers
+  - [MidiEditor](http://www.midieditor.org/) (Win, Linux) (Open Source)
+  - [Rosegarden](http://www.rosegardenmusic.com/) (Linux) (Open Source)
+
+- MIDI Players:
+  - [TMIDI Player](https://blackmidi.fandom.com/wiki/Software:TMIDI_Player) (Win)
+  - [Tom's MIDI Player](https://www.grandgent.com/tom/projects/tmidi/) (Win) (Note: both are knows as TMIDI but they are different)
+  - [TiMidity++](http://timidity.sourceforge.net/) (Linux, Win)
+  - [Droidsound-e](https://droidsound-e.web.app/) (Android)
+  - [MIDI File Player](https://play.google.com/store/apps/details?id=net.volcanomobile.midifileplayer) (Android) (Note: You can use [FluidSynth MIDI](https://play.google.com/store/apps/details?id=net.volcanomobile.fluidsynthmidi) app in combination to play from SoundFonts)
+
+- VSTs:
+  - [Edirol Sound Canvas VA](https://www.roland.com/us/products/rc_sound_canvas_va/) (includes soundbanks from SC-55, SC-88, SC-8820 and SC-88 Pro)
+  - [Yamaha S-YXG50 Portable](https://archive.org/details/yamaha_syxg50_vsti)
+  - [Edirol Super Quartet](https://www.roland.com/global/products/hq_super_quartet/) (includes sounds that ZUN used. This VST is discountinued so you may need to search online for an activated copy :P)
+  - More will be added later
+
+You can find more resources for Linux MIDI stuff [here](http://linux-sound.org/midi.html) (well Internet is flooded with software for windows so yeah)
+
 ## Contribute
 If you have any MIDI(s) that are not in this repo, or if there are any mistakes in the repo, you can fork this repo, upload your MIDI file(s) or fix any mistakes and then pull request your forked repo. You can also send MIDIs in the Issues tab and I'll add them to the repo.
 
