@@ -56,6 +56,18 @@ If you want to go deeper into stuff like this and want the MIDIs to sound clost 
   - For MIDIs in TouHou 6 till latest ones, ZUN used [Ronald Edirol SD-90](https://www.roland.com/global/products/sd-90/) (2001) among with several VSTs. SD-90 also have been discontinued since then. There is no VST for it, so you may need to rely on alternatives like THfont (this one is not generally recommended). If available, you can buy this one second-handed too. \
   Though you may find similar sounds from it in other SoundCanvas VSTs, for example, the Romantic TP preset from SD-90 (also popularly known as ZUNpet) is available on Roland SRX World VST as GypsyTrumpet in bank PR-A.
 
+
+## Contribute
+If you have any MIDI(s) that are not in this repo, or if there are any mistakes in the repo, you can fork this repo, upload your MIDI file(s) or fix any mistakes and then pull request your forked repo. You can also send MIDIs in the Issues tab and I'll add them to the repo.
+
+The MIDIs should have relevant file name, and they should be on their respective folders. You may credit the arranger in the filename.
+
+Note that any black MIDIs or MIDIs that are unrelated to TouHou at all are NOT allowed.
+
+## Issues
+If you have any issues or questions related to this repo, you simply can oen a new issue in the "Issues" tab. \
+You should search for the existing issue/question before opening any new one. Unrelated issues will be closed.
+
 ## Resources
 Here's some of my personal pickups you can play, make or edit MIDIs with (but not limited to):
 
@@ -79,22 +91,24 @@ Here's some of my personal pickups you can play, make or edit MIDIs with (but no
 
 - VSTs:
   - [Edirol Sound Canvas VA](https://www.roland.com/us/products/rc_sound_canvas_va/) (includes soundbanks from SC-55, SC-88, SC-8820 and SC-88 Pro)
-  - [Yamaha S-YXG50 Portable](https://archive.org/details/yamaha_syxg50_vsti)
-  - [Edirol Super Quartet](https://www.roland.com/global/products/hq_super_quartet/) (includes sounds that ZUN used. This VST is discountinued so you may need to search online for an activated copy :P)
-  - More will be added later
+  - [Yamaha S-YXG50 Portable](https://archive.org/details/yamaha_syxg50_vsti) (A Yamaha XG compatible VSTi synth)
+  - [Edirol Super Quartet](https://www.roland.com/global/products/hq_super_quartet/) (includes sounds like St. Concerto, Jazz Bass and Rock Bass that ZUN used. This VST is discountinued so you may need to search online for an activated copy :P)
+  - [Steinberg LM-4 Mark II](https://www.kvraudio.com/product/lm_4_markii_by_steinberg) (includes Gator Kit and Loop kit that ZUN used for drums. Its discontinued so yeah)
+  - [Steinberg Virtual Guitarist](https://www.kvraudio.com/product/virtual-guitarist-by-steinberg) (includes Heavy Chords used by ZUN, discontinued)
+  - Steinberg Virtual Guitarist 2 (No official links unfortunately) (includes Ultra I used by ZUN, discontinued)
+  - [HALion ONE](https://www.steinberg.net/vst-instruments/halion/) (not sure about the latest version but HALion ONE includes SR. Live Grand Piano that ZUN uses)
+  - [Steinberg Groove Agent 3](https://www.kvraudio.com/product/groove-agent-3-by-steinberg) (includes Mini Works&Trance used by ZUN. This version is discontinued)
 
 You can find more resources for Linux MIDI stuff [here](http://linux-sound.org/midi.html) (well Internet is flooded with software for windows so yeah)
 
-## Contribute
-If you have any MIDI(s) that are not in this repo, or if there are any mistakes in the repo, you can fork this repo, upload your MIDI file(s) or fix any mistakes and then pull request your forked repo. You can also send MIDIs in the Issues tab and I'll add them to the repo.
 
-The MIDIs should have relevant file name, and they should be on their respective folders. You may credit the arranger in the filename.
-
-Note that any black MIDIs or MIDIs that are unrelated to TouHou at all are NOT allowed.
-
-## Issues
-If you have any issues or questions related to this repo, you simply can oen a new issue in the "Issues" tab. \
-You should search for the existing issue/question before opening any new one. Unrelated issues will be closed.
+## Links
+Here are some related links you can visit:
+  - https://gamebanana.com/projects/35179 (Original Project on Gamebanana)
+  - https://www.nicovideo.jp/watch/sm18224247 (NicoNico video demonstrating various VSTs used by ZUN)
+  - https://www.youtube.com/watch?v=cDq5AAYPxW8 (YouTube video demonstrating a couple of Edirol SD-90 Sounds)
+  - https://en.touhouwiki.net/wiki/Touhou_Wiki (Official TouHou Wiki)
+  - http://www16.big.or.jp/~zun/top.html (Official former website of ZUN)
 
 ## Acknowledgement 
 Thanks to The Tremolo Measure (admin of the [Gamebanana](https://gamebanana.com/projects/35179)) for maintaining the project, and all the contributors for contributing to the project.
