@@ -1,7 +1,7 @@
 # touhou-midi-collection
-A collection of MIDIs of the TouHou OSTs and some other arrangemrnts.
+A collection of MIDIs of the TouHou OSTs and some related arrangements.
 
-Project was originally hosted on [Gamebanana](https://gamebanana.com/projects/35179), but I ~~stole~~ downloaded ~~all~~ (I'll upload all of them soon) the MIDIs and reuploaded on here for the easier access.
+Project was originally hosted on [Gamebanana](https://gamebanana.com/projects/35179), but I ~~stole~~ reuploaded the MIDIs on here for easier access.
 
 ## Repo Contents
 In the root directory, every MIDI files are separated into sections to make it easier for a song to search.
@@ -14,7 +14,7 @@ If you are having trouble with finding the game for which you want to download t
   2. **2 - Spin-Offs** - Minor releases of TouHou that does not include the main plot
   3. **3 - Fighting Games** - TouHou Fighting games
   4. **4 - Music CDs** - ZUN over time, has released some music discs,these CDs have arrangements as well as exclusive music
-  5. **5 - Other-Misc** - Others MIDIs that doesn\'t really fit in the other categories
+  5. **5 - Other- Misc** - Others MIDIs that doesn\'t really fit in the other categories
   6. **6 - Arranges** - Famous Arrangements of TouHou songs
   7. **7 - Fan and Related Games** - Games made by fans, many of them, without the participation of ZUN, the related games ZUN could be involved in some way
 
@@ -49,7 +49,7 @@ You can play them with any MIDI player/music player that supports playing MIDI f
 
 Or, you can edit them or use them in any DAW (Digital Audio Workstation) that supports MIDI import (well every DAW supports MIDI Imports, I suppose).
 
-If you want to go deeper into stuff like this and want the MIDIs to sound clost to the original, you need to know the following info:
+If you want to go deeper into stuff like this and want the MIDIs to sound close to the original, you need to know the following info:
   - For MIDIs in TouHou 1 till 5, ZUN used Roland Edirol SC-88 Pro (1996). But since SC-88 Pro is out of production, you might consider using [Edirol Sound Canvas VA](https://www.roland.com/us/products/rc_sound_canvas_va/) VST. It includes soundbanks from SC-55, SC-88, SC-8820 and SC-88 Pro. \
   If available, you can buy it second-handed from sites like Ebay and other sites that sells stuff like these. \
   You can also use SoundFonts for SC-88 Pro.
