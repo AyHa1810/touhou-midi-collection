@@ -93,7 +93,7 @@ Here's some of my personal pickups you can play, make or edit MIDIs with (but no
   - [Edirol Sound Canvas VA](https://www.roland.com/us/products/rc_sound_canvas_va/) (includes soundbanks from SC-55, SC-88, SC-8820 and SC-88 Pro)
   - [Yamaha S-YXG50 Portable](https://archive.org/details/yamaha_syxg50_vsti) (A Yamaha XG compatible VSTi synth)
   - [Edirol Super Quartet](https://www.roland.com/global/products/hq_super_quartet/) (includes sounds like St. Concerto, Jazz Bass and Rock Bass that ZUN used. This VST is discountinued so you may need to search online for an activated copy :P)
-  - [Steinberg LM-4 Mark II](https://www.kvraudio.com/product/lm_4_markii_by_steinberg) (includes Gator Kit and Loop kit that ZUN used for drums. Its discontinued so yeah)
+  - [Steinberg LM-4 Mark II](https://www.kvraudio.com/product/lm_4_markii_by_steinberg) (includes Gator Kit and Loop kit that ZUN used for drums. Its discontinued so yeah. Reddit user u/tuxvictini recently uploaded the original CD iso on Google drive in [this post](https://www.reddit.com/user/tuxvictini/comments/13zk9j6/lm4_mkii_soundkits/?utm_source=share&utm_medium=web2x&context=3) as of writing this so enjoy :)
   - [Steinberg Virtual Guitarist](https://www.kvraudio.com/product/virtual-guitarist-by-steinberg) (includes Heavy Chords used by ZUN, discontinued)
   - Steinberg Virtual Guitarist 2 (No official links unfortunately) (includes Ultra I used by ZUN, discontinued)
   - [HALion ONE](https://www.steinberg.net/vst-instruments/halion/) (not sure about the latest version but HALion ONE includes SR. Live Grand Piano that ZUN uses)
