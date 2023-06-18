@@ -56,6 +56,9 @@ If you want to go deeper into stuff like this and want the MIDIs to sound close 
   - For MIDIs in TouHou 6 till latest ones, ZUN used [Ronald Edirol SD-90](https://www.roland.com/global/products/sd-90/) (2001) among with several VSTs. SD-90 also have been discontinued since then. There is no VST for it, so you may need to rely on alternatives like THfont (this one is not generally recommended). If available, you can buy this one second-handed too. \
   Though you may find similar sounds from it in other SoundCanvas VSTs, for example, the Romantic TP preset from SD-90 (also popularly known as ZUNpet) is available on Roland SRX World VST as GypsyTrumpet in bank PR-A.
 
+## Usage Policy
+Rules similar to Creative Commons apply for most of the part. You can use the MIDIs and modify it, but you must credit the original creator, which is marked with brackets in the MIDI collection. \
+**Except,** you **CANNOT** use MIDIs made by ZUN in fangames due to ZUN's new policies.
 
 ## Contribute
 If you have any MIDI(s) that are not in this repo, or if there are any mistakes in the repo, you can fork this repo, upload your MIDI file(s) or fix any mistakes and then pull request your forked repo. You can also send MIDIs in the Issues tab and I'll add them to the repo.
