@@ -111,6 +111,7 @@ Here are some related links you can visit:
   - https://www.nicovideo.jp/watch/sm18224247 (NicoNico video demonstrating various VSTs used by ZUN)
   - https://www.youtube.com/watch?v=cDq5AAYPxW8 (YouTube video demonstrating a couple of Edirol SD-90 Sounds)
   - https://en.touhouwiki.net/wiki/Touhou_Wiki (Official TouHou Wiki)
+  - http://lenen.shoutwiki.com/ (Unofficial(?) Len'en Project Wiki)
   - http://www16.big.or.jp/~zun/top.html (Official former website of ZUN)
 
 ## Acknowledgement 
